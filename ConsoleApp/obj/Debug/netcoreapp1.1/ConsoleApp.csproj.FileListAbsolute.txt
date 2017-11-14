@@ -1,0 +1,10 @@
+C:\Work\Test Solutions\NUnitDemo\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp1.1\ConsoleApp.deps.json
+C:\Work\Test Solutions\NUnitDemo\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp1.1\ConsoleApp.runtimeconfig.json
+C:\Work\Test Solutions\NUnitDemo\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp1.1\ConsoleApp.runtimeconfig.dev.json
+C:\Work\Test Solutions\NUnitDemo\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp1.1\ConsoleApp.dll
+C:\Work\Test Solutions\NUnitDemo\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp1.1\ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Work\Test Solutions\NUnitDemo\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp1.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Work\Test Solutions\NUnitDemo\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp1.1\ConsoleApp.AssemblyInfo.cs
+C:\Work\Test Solutions\NUnitDemo\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp1.1\ConsoleApp.pdb
+C:\Work\Test Solutions\NUnitDemo\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp1.1\ConsoleApp.dll
+C:\Work\Test Solutions\NUnitDemo\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp1.1\ConsoleApp.pdb
